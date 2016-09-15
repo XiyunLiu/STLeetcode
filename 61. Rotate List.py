@@ -74,4 +74,3 @@ class Solution(object):
         new_head_pre.next = None
         return dummy.next
 
-        
