@@ -28,4 +28,3 @@ class Solution(object):
                 rooms[i+1][j] = rooms[i][j]+1
                 queue.append([i+1,j])
 
-            
